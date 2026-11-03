@@ -1,0 +1,1 @@
+ALTER TABLE user_reactions ADD COLUMN upvote BOOLEAN DEFAULT false NOT NULL;
